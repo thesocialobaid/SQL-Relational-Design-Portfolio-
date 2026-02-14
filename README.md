@@ -1,4 +1,4 @@
-# SQL-Relational-Design-Portfolio-
+# SQL-Relational-Design-Portfolio-: DB Assignment 02 
 
 📌 Overview
 This repository contains a comprehensive collection of relational database designs and SQL solutions developed during the Spring 2026 semester at FAST School of Computing, NUCES Lahore. The project demonstrates proficiency in schema modeling, relational algebra, and complex data retrieval across three distinct domains. 
